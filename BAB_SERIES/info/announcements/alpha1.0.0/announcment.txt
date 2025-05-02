@@ -1,0 +1,12 @@
+FIRST RELEASE!!!!
+
+this will be the base version
+
+added BuzzerHelper,
+ButtonControl
+now that was really small/:
+still, its gonna be like minecraft!! the first update is gonna be boring 
+but the second update will be much bigger and less boring!!!!!
+
+if it doesnt turn out like that, then i probably changed my mind about the plan 
+and didnt change this file
